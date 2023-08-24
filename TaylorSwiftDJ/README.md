@@ -5,7 +5,7 @@
 💫 Hey there Swifties! Welcome to "TaylorSwiftDJ"! 🎤🎶 This app recommends Taylor Swift's iconic songs tailored to your emotions. Dance, reminisce, and embrace your feelings with every beat – because life's a melody, and Taylor's your DJ. ✨ 🌈 💖
 
 ## Live Demo
-- Click [HERE]() for a live demo of this project hosted via Streamlit
+- Click [HERE](https://taylor-swift-dj.streamlit.app/) for a live demo of this project hosted via Streamlit
   
 ## How it works
 The application follows a sequence of steps to deliver Taylor Swift songs matching the user's emotions:
