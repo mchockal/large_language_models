@@ -1,8 +1,10 @@
-# TaylorSwiftDJ 🎵🌟
+# TaylorSwiftDJ 🌟
 
-*<small>Made with [DeepLake](https://www.deeplake.ai/) 🚀 and [LangChain](https://python.langchain.com/en/latest/index.html) 🦜⛓️</small>*
-
-💫 Hey there Swifties! Welcome to "TaylorSwiftDJ"! 🎤🎶 This app recommends Taylor Swift's iconic songs tailored to your emotions. Dance, reminisce, and embrace your feelings with every beat – because life's a melody, and Taylor's your DJ. ✨ 🌈 💖
+<div align = 'center'> 
+    <a href ='https://taylor-swift-dj.streamlit.app/' target="_blank" rel="noopener noreferrer" >
+	    <img src ='https://github.com/mchockal/large_language_models/blob/main/TaylorSwiftDJ/resources/app_screenshot.png' alt="TaylorSwiftDJ app screenshot">
+    </a>
+</div>
 
 ## Live Demo
 - Click [HERE](https://taylor-swift-dj.streamlit.app/) for a live demo of this project hosted via Streamlit
