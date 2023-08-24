@@ -38,7 +38,7 @@ def init():
 
     prompt = PromptTemplate(
         input_variables=["user_input"],
-        template=Path("prompts/augment_user_input.prompt").read_text(),
+        template=Path("./prompts/augment_user_input.prompt").read_text(),
     )
 
     llm = ChatOpenAI(temperature=0.3)
