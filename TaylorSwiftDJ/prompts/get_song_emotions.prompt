@@ -1,0 +1,7 @@
+I am building a song retrieval system based on user mood. Given the following song lyric
+
+{song_lyrics}
+
+You are asked to list 8 common emotions that I will later use to retrieve the song.
+
+Please provide only a list of comma separated  emotions

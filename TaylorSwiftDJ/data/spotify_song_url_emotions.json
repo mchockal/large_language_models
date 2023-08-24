@@ -1,0 +1,647 @@
+[
+    {
+        "song_name": "Cruel Summer",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Cruel Summer\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/1BxfuPKGuaTgP7aM0Bbdwr?utm_source=oembed\"></iframe>",
+        "emotions": "love, desire, longing, uncertainty, temptation, rebellion, frustration, joy"
+    },
+    {
+        "song_name": "I Can See You (Taylor\u2019s Version) (From The Vault)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: I Can See You (Taylor\u2019s Version) (From The Vault)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/5kHMfzgLZP95O9NBy0ku4v?utm_source=oembed\"></iframe>",
+        "emotions": "love, desire, curiosity, anticipation, secrecy, attraction, infatuation, longing"
+    },
+    {
+        "song_name": "Karma",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Karma\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/7KokYm8cMIXCsGVmUvKtqf?utm_source=oembed\"></iframe>",
+        "emotions": "anger, betrayal, fear, satisfaction, envy, relaxation, love, trickery"
+    },
+    {
+        "song_name": "Blank Space",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Blank Space\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/1p80LdxRV74UKvL8gnD7ky?utm_source=oembed\"></iframe>",
+        "emotions": "excitement, curiosity, love, desire, mischief, danger, recklessness, insanity"
+    },
+    {
+        "song_name": "Anti-Hero",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Anti-Hero\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/0V3wPSX9ygBnCm8psDIegu?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, loneliness, despair, frustration, self-doubt, introspection, longing, insecurity"
+    },
+    {
+        "song_name": "Love Story (Taylor\u2019s Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Love Story (Taylor\u2019s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/3CeCwYWvdfXbZLXFhBrbnf?utm_source=oembed\"></iframe>",
+        "emotions": "joy, sadness, nostalgia, love, longing, excitement, fear, anticipation"
+    },
+    {
+        "song_name": "Enchanted (Taylor's Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Enchanted (Taylor&apos;s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/3sW3oSbzsfecv9XoUdGs7h?utm_source=oembed\"></iframe>",
+        "emotions": "joy, loneliness, enchantment, wonder, spark, blush, love, anticipation"
+    },
+    {
+        "song_name": "Style",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Style\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/4lIxdJw6W3Fg4vUIYCB0S5?utm_source=oembed\"></iframe>",
+        "emotions": "passion, nostalgia, longing, excitement, rebellion, seduction, vulnerability, confidence"
+    },
+    {
+        "song_name": "You Belong With Me (Taylor\u2019s Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: You Belong With Me (Taylor\u2019s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/4P7LVHDbzn7aI6wWRh5AHc?utm_source=oembed\"></iframe>",
+        "emotions": "joy, sadness, anger, love, excitement, nostalgia, loneliness, frustration"
+    },
+    {
+        "song_name": "Wildest Dreams (Taylor's Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Wildest Dreams (Taylor&apos;s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/1Ov37jtRQ2YNAe8HzfczkL?utm_source=oembed\"></iframe>",
+        "emotions": "love, longing, desire, nostalgia, sadness, passion, yearning, hope"
+    },
+    {
+        "song_name": "Don\u2019t Blame Me",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Don\u2019t Blame Me\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/1R0a2iXumgCiFb7HEZ7gUE?utm_source=oembed\"></iframe>",
+        "emotions": "joy, love, obsession, addiction, desperation, longing, surrender, determination"
+    },
+    {
+        "song_name": "I Knew You Were Trouble (Taylor's Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: I Knew You Were Trouble (Taylor&apos;s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/6tNSmBKSjFV1366ASuULfZ?utm_source=oembed\"></iframe>",
+        "emotions": "happy, sad, angry, excited, nostalgic, calm, frustrated, hopeful"
+    },
+    {
+        "song_name": "Lavender Haze",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Lavender Haze\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/5jQI2r1RdgtuT8S3iG8zFC?utm_source=oembed\"></iframe>",
+        "emotions": "melancholia, scrutiny, beauty, new, creeping, surreal, damned, longing"
+    },
+    {
+        "song_name": "Mine (Taylor's Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Mine (Taylor&apos;s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/7G0gBu6nLdhFDPRLc0HdDG?utm_source=oembed\"></iframe>",
+        "emotions": "joy, love, nostalgia, contentment, excitement, vulnerability, hope, happiness"
+    },
+    {
+        "song_name": "All Of The Girls You Loved Before",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: All Of The Girls You Loved Before\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/4P9Q0GojKVXpRTJCaL3kyy?utm_source=oembed\"></iframe>",
+        "emotions": "loneliness, longing, nostalgia, love, gratitude, sadness, hope, affection"
+    },
+    {
+        "song_name": "Shake It Off",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Shake It Off\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/5xTtaWoae3wi06K5WfVUUH?utm_source=oembed\"></iframe>",
+        "emotions": "confidence, resilience, determination, positivity, empowerment, independence, defiance, freedom"
+    },
+    {
+        "song_name": "Midnight Rain",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Midnight Rain\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/3rWDp9tBPQR9z6U5YyRSK4?utm_source=oembed\"></iframe>",
+        "emotions": "comfort, pain, love, heartbreak, happiness, nostalgia, longing, regret"
+    },
+    {
+        "song_name": "Better Than Revenge (Taylor's Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Better Than Revenge (Taylor&apos;s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/0NwGC0v03ysCYINtg6ns58?utm_source=oembed\"></iframe>",
+        "emotions": "anger, revenge, betrayal, jealousy, resentment, frustration, superiority, determination"
+    },
+    {
+        "song_name": "Bad Blood",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Bad Blood\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/273dCMFseLcVsoSWx59IoE?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, anger, betrayal, frustration, hurt, disappointment, regret, resentment"
+    },
+    {
+        "song_name": "cardigan",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: cardigan\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/4R2kfaDFhslZEMJqAFNpdd?utm_source=oembed\"></iframe>",
+        "emotions": "joy, excitement, love, nostalgia, rebellion, vulnerability, confidence, uncertainty"
+    },
+    {
+        "song_name": "22 (Taylor's Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: 22 (Taylor&apos;s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/2T9WeqSMJJb8YBDHPYGU4p?utm_source=oembed\"></iframe>",
+        "emotions": "happy, free, confused, lonely, miserable, magical, excited, hopeful"
+    },
+    {
+        "song_name": "Back To December (Taylor's Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Back To December (Taylor&apos;s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/79uDOz0zuuWS7HWxzMmTa2?utm_source=oembed\"></iframe>",
+        "emotions": "happy, sad, nostalgic, regretful, apologetic, longing, missing, love"
+    },
+    {
+        "song_name": "Hits Different",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Hits Different\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/3xYJScVfxByb61dYHTwiby?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, anger, disgust, nostalgia, loneliness, heartbreak, regret, longing"
+    },
+    {
+        "song_name": "Delicate",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Delicate\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/6NFyWDv5CjfwuzoCkw47Xf?utm_source=oembed\"></iframe>",
+        "emotions": "happiness, sadness, anger, love, excitement, fear, surprise, disgust"
+    },
+    {
+        "song_name": "When Emma Falls in Love (Taylor\u2019s Version) (From The Vault)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: When Emma Falls in Love (Taylor\u2019s Version) (From The Vault)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/0zo975x58DlXbZllWvfYhg?utm_source=oembed\"></iframe>",
+        "emotions": "love, happiness, excitement, sadness, fear, nostalgia, longing, contentment"
+    },
+    {
+        "song_name": "Snow On The Beach (feat. More Lana Del Rey)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Snow On The Beach (feat. More Lana Del Rey)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/4zmKGsrXjLmljb5fTaBTot?utm_source=oembed\"></iframe>",
+        "emotions": "love, loneliness, sadness, longing, hope, joy, confusion, nostalgia"
+    },
+    {
+        "song_name": "Mean (Taylor's Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Mean (Taylor&apos;s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/30Y4CV7A6YqtQtTTo7Ue4j?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, anger, frustration, helplessness, resilience, determination, hope, self-acceptance"
+    },
+    {
+        "song_name": "august",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: august\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/3hUxzQpSfdDqwM3ZTFQY0K?utm_source=oembed\"></iframe>",
+        "emotions": "longing, nostalgia, regret, longing, disappointment, yearning, sorrow, unrequited love"
+    },
+    {
+        "song_name": "Getaway Car",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Getaway Car\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/0VE4kBnHJUgtMf0dy6DRmW?utm_source=oembed\"></iframe>",
+        "emotions": "excitement, regret, betrayal, guilt, longing, rebellion, nostalgia, escape"
+    },
+    {
+        "song_name": "We Are Never Ever Getting Back Together (Taylor's Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: We Are Never Ever Getting Back Together (Taylor&apos;s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/31CdkzHnMbvJuKZvtCQfR6?utm_source=oembed\"></iframe>",
+        "emotions": "love, anger, frustration, sadness, nostalgia, defiance, resolution, sarcasm"
+    },
+    {
+        "song_name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: All Too Well (10 Minute Version) (Taylor&apos;s Version) (From The Vault)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/5enxwA8aAbwZbf5qCHORXi?utm_source=oembed\"></iframe>",
+        "emotions": "nostalgia, longing, love, sadness, regret, anger, confusion, shame"
+    },
+    {
+        "song_name": "Bejeweled",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Bejeweled\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/3qoftcUZaUOncvIYjFSPdE?utm_source=oembed\"></iframe>",
+        "emotions": "joy, anger, sadness, love, excitement, nostalgia, resilience, confidence"
+    },
+    {
+        "song_name": "Paper Rings",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Paper Rings\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/4y5bvROuBDPr5fuwXbIBZR?utm_source=oembed\"></iframe>",
+        "emotions": "love, longing, sadness, nostalgia, hope, contentment, excitement, desire"
+    },
+    {
+        "song_name": "Dear John (Taylor's Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Dear John (Taylor&apos;s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/1zU8j1x3yi9xalMF96pzKp?utm_source=oembed\"></iframe>",
+        "emotions": "longing, sadness, frustration, anger, confusion, regret, betrayal, optimism"
+    },
+    {
+        "song_name": "You're On Your Own, Kid",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: You&apos;re On Your Own, Kid\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/4D7BCuvgdJlYvlX5WlN54t?utm_source=oembed\"></iframe>",
+        "emotions": "yearning, cool, patience, notice, friendship, smoking, touch, choose"
+    },
+    {
+        "song_name": "If This Was A Movie (Taylor\u2019s Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: If This Was A Movie (Taylor\u2019s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/0kAZ3H6G9Zac4PMpmobMkj?utm_source=oembed\"></iframe>",
+        "emotions": "longing, nostalgia, sadness, regret, hope, yearning, heartbreak, loneliness"
+    },
+    {
+        "song_name": "Foolish One (Taylor\u2019s Version) (From The Vault)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Foolish One (Taylor\u2019s Version) (From The Vault)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/4s8BIKx4Zh6ryAEz8RTlaU?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, loneliness, frustration, hopefulness, disappointment, longing, confusion, delicacy"
+    },
+    {
+        "song_name": "Maroon",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Maroon\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/3eX0NZfLtGzoLUxPNvRfqm?utm_source=oembed\"></iframe>",
+        "emotions": "joy, laughter, friendship, love, nostalgia, intimacy, sadness, loss"
+    },
+    {
+        "song_name": "Wildest Dreams",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Wildest Dreams\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/59HjlYCeBsxdI0fcm3zglw?utm_source=oembed\"></iframe>",
+        "emotions": "love, longing, sadness, nostalgia, desire, passion, regret, hope"
+    },
+    {
+        "song_name": "Look What You Made Me Do",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Look What You Made Me Do\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/1P17dC1amhFzptugyAO7Il?utm_source=oembed\"></iframe>",
+        "emotions": "anger, frustration, revenge, determination, empowerment, resilience, vindication, defiance"
+    },
+    {
+        "song_name": "Vigilante Shit",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Vigilante Shit\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/1xwAWUI6Dj0WGC3KiUPN0O?utm_source=oembed\"></iframe>",
+        "emotions": "anger, revenge, betrayal, sadness, jealousy, determination, empowerment, defiance"
+    },
+    {
+        "song_name": "willow",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: willow\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/0lx2cLdOt3piJbcaXIV74f?utm_source=oembed\"></iframe>",
+        "emotions": "joy, sadness, love, longing, excitement, uncertainty, devotion, vulnerability"
+    },
+    {
+        "song_name": "Lover",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Lover\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/1dGr1c8CrMLDpV6mPbImSI?utm_source=oembed\"></iframe>",
+        "emotions": "joy, love, excitement, sentimentality, longing, familiarity, happiness, intimacy"
+    },
+    {
+        "song_name": "Mastermind",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Mastermind\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/7FmYn9e7KHMXcxqGSj9LjH?utm_source=oembed\"></iframe>",
+        "emotions": "excitement, happiness, love, desire, confidence, determination, vulnerability, manipulation"
+    },
+    {
+        "song_name": "Mr. Perfectly Fine (Taylor\u2019s Version) (From The Vault)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Mr. Perfectly Fine (Taylor\u2019s Version) (From The Vault)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/7l2tmgUhV7Y2aJHjiszifg?utm_source=oembed\"></iframe>",
+        "emotions": "happy, sad, heartbroken, betrayed, lonely, frustrated, resigned, disappointed"
+    },
+    {
+        "song_name": "Long Live (Taylor's Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Long Live (Taylor&apos;s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/4hqJ4bSlYJOXb6Z4SRmzxs?utm_source=oembed\"></iframe>",
+        "emotions": "joy, nostalgia, excitement, pride, hope, longing, triumph, rebellion"
+    },
+    {
+        "song_name": "The Great War",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: The Great War\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/3UMrglJeju5yWyYIW6o99b?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, anger, betrayal, longing, regret, revenge, conflict, trust"
+    },
+    {
+        "song_name": "Timeless (Taylor\u2019s Version) (From The Vault)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Timeless (Taylor\u2019s Version) (From The Vault)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/1HCdems7PQZRj42QDWLA0A?utm_source=oembed\"></iframe>",
+        "emotions": "love, nostalgia, longing, happiness, sadness, regret, hope, admiration"
+    },
+    {
+        "song_name": "The Man",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: The Man\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/3RauEVgRgj1IuWdJ9fDs70?utm_source=oembed\"></iframe>",
+        "emotions": "confidence, empowerment, frustration, ambition, resilience, equality, independence, defiance"
+    },
+    {
+        "song_name": "The Story Of Us (Taylor's Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: The Story Of Us (Taylor&apos;s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/6dTA6y0C2ReQklntzZl8l3?utm_source=oembed\"></iframe>",
+        "emotions": "love, heartbreak, confusion, loneliness, longing, frustration, sadness, despair"
+    },
+    {
+        "song_name": "The Way I Loved You (Taylor\u2019s Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: The Way I Loved You (Taylor\u2019s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/22bPsP2jCgbLUvh82U0Z3M?utm_source=oembed\"></iframe>",
+        "emotions": "happy, jealous, content, missing, angry, in love, broken, comfortable"
+    },
+    {
+        "song_name": "Question...?",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Question...?\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/0heeNYlwOGuUSe7TgUD27B?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, happiness, love, longing, confusion, regret, nostalgia, yearning"
+    },
+    {
+        "song_name": "champagne problems",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: champagne problems\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/0sY6ZUTh4yoctD8VIXz339?utm_source=oembed\"></iframe>",
+        "emotions": "hurt, uncertainty, sadness, disappointment, regret, speechless, love, celebration"
+    },
+    {
+        "song_name": "Eyes Open (Taylor's Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Eyes Open (Taylor&apos;s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/2NIBaWXdjaTDmytjjwbEfP?utm_source=oembed\"></iframe>",
+        "emotions": "happiness, nostalgia, longing, fear, vulnerability, resilience, determination, vigilance"
+    },
+    {
+        "song_name": "Gorgeous",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Gorgeous\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/1ZY1PqizIl78geGM4xWlEA?utm_source=oembed\"></iframe>",
+        "emotions": "happy, sad, angry, excited, peaceful, nostalgic, confident, anxious"
+    },
+    {
+        "song_name": "Ours (Taylor\u2019s Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Ours (Taylor\u2019s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/3yNJkriPzWjkkDAWHIAVUq?utm_source=oembed\"></iframe>",
+        "emotions": "joy, sadness, love, fear, anger, excitement, nostalgia, contentment"
+    },
+    {
+        "song_name": "Sparks Fly (Taylor\u2019s Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Sparks Fly (Taylor\u2019s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/3MytWN8L7shNYzGl4tAKRp?utm_source=oembed\"></iframe>",
+        "emotions": "love, desire, longing, hope, uncertainty, excitement, vulnerability, attraction"
+    },
+    {
+        "song_name": "Sweet Nothing",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Sweet Nothing\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/0wavGRldH0AWyu2zvTz8zb?utm_source=oembed\"></iframe>",
+        "emotions": "happy, sad, nostalgic, peaceful, excited, lonely, content, hopeful"
+    },
+    {
+        "song_name": "Red",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Red\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/0cITLOYn1Sv4q27zZPqlNK?utm_source=oembed\"></iframe>",
+        "emotions": "passionate, sudden, bright, blue, dark, alone, regretful, loving"
+    },
+    {
+        "song_name": "Last Kiss (Taylor's Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Last Kiss (Taylor&apos;s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/59KOoHFcw5XfICnO57holu?utm_source=oembed\"></iframe>",
+        "emotions": "love, sadness, longing, nostalgia, regret, happiness, affection, yearning"
+    },
+    {
+        "song_name": "You Need To Calm Down",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: You Need To Calm Down\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/6RRNNciQGZEXnqk8SQ9yv5?utm_source=oembed\"></iframe>",
+        "emotions": "anger, frustration, annoyance, indifference, happiness, calmness, confidence, empowerment"
+    },
+    {
+        "song_name": "Welcome To New York",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Welcome To New York\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/6qnM0XXPZOINWA778uNqQ9?utm_source=oembed\"></iframe>",
+        "emotions": "joy, excitement, anticipation, curiosity, nostalgia, acceptance, empowerment, liberation"
+    },
+    {
+        "song_name": "Paris",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Paris\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/7712gjoih4QoDbXpljEk21?utm_source=oembed\"></iframe>",
+        "emotions": "love, nostalgia, excitement, happiness, surprise, contentment, relaxation, anticipation"
+    },
+    {
+        "song_name": "New Romantics",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: New Romantics\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/6rZVy6FIG7lSJQMFXHo12z?utm_source=oembed\"></iframe>",
+        "emotions": "bored, tired, trust, young, dumb, cry, battle, dream"
+    },
+    {
+        "song_name": "This Love (Taylor\u2019s Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: This Love (Taylor\u2019s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/4d1CG5ei1E2vGbvmgf5KKv?utm_source=oembed\"></iframe>",
+        "emotions": "happy, sad, angry, peaceful, excited, nostalgic, hopeful, lonely"
+    },
+    {
+        "song_name": "Labyrinth",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Labyrinth\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/0A1JLUlkZkp2EFrosoNQi0?utm_source=oembed\"></iframe>",
+        "emotions": "happiness, sadness, fear, love, anger, confusion, relief, frustration"
+    },
+    {
+        "song_name": "I Wish You Would",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: I Wish You Would\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/3wmN11qXGL0HyPojvEE1D9?utm_source=oembed\"></iframe>",
+        "emotions": "longing, regret, nostalgia, love, sadness, hope, desire, yearning"
+    },
+    {
+        "song_name": "Would've, Could've, Should've",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Would&apos;ve, Could&apos;ve, Should&apos;ve\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/0aV5uARAknQgYhBaK944FP?utm_source=oembed\"></iframe>",
+        "emotions": "love, regret, fear, pain, longing, confusion, anger, vulnerability"
+    },
+    {
+        "song_name": "Bigger Than The Whole Sky",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Bigger Than The Whole Sky\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/0BiqmkasE5FdrChwKfVp8X?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, loss, grief, longing, regret, acceptance, resignation, heartbreak"
+    },
+    {
+        "song_name": "the 1",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: the 1\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/0Jlcvv8IykzHaSmj49uNW8?utm_source=oembed\"></iframe>",
+        "emotions": "happiness, optimism, nostalgia, regret, longing, excitement, uncertainty, love"
+    },
+    {
+        "song_name": "High Infidelity",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: High Infidelity\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/5kiZGSxgqPdv6rbqL9THdd?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, anger, betrayal, confusion, remorse, loneliness, defensiveness, regret"
+    },
+    {
+        "song_name": "End Game",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: End Game\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/2x0WlnmfG39ZuDmstl9xfX?utm_source=oembed\"></iframe>",
+        "emotions": "happy, confident, romantic, energetic, powerful, passionate, determined, protective"
+    },
+    {
+        "song_name": "Glitch",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Glitch\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/6wAFvJPpTZVirBKGZ4EnMW?utm_source=oembed\"></iframe>",
+        "emotions": "love, longing, regret, confusion, excitement, nostalgia, hope, frustration"
+    },
+    {
+        "song_name": "Message In A Bottle (Taylor's Version) (From The Vault)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Message In A Bottle (Taylor&apos;s Version) (From The Vault)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/3z6XUommYDWPHeFhmhhT6j?utm_source=oembed\"></iframe>",
+        "emotions": "love, fear, longing, hope, terror, restlessness, happiness, sadness"
+    },
+    {
+        "song_name": "Dear Reader",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Dear Reader\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/3QF5RsWzK1lCvf2o2cY65P?utm_source=oembed\"></iframe>",
+        "emotions": "happy, sad, angry, fearful, surprised, calm, confident, nostalgic"
+    },
+    {
+        "song_name": "Out Of The Woods",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Out Of The Woods\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/5OndtwLGA9O6XHFcGm2H7r?utm_source=oembed\"></iframe>",
+        "emotions": "happy, nostalgic, hopeful, uncertain, romantic, playful, reflective, longing"
+    },
+    {
+        "song_name": "You Are In Love",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: You Are In Love\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/4A2LfnduSTsE8u0ecYROxE?utm_source=oembed\"></iframe>",
+        "emotions": "love, longing, happiness, nostalgia, affection, tenderness, contentment, friendship"
+    },
+    {
+        "song_name": "my tears ricochet",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: my tears ricochet\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/1MgV7FIyNxIG7WzMRJV5HC?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, anger, betrayal, heartbreak, resentment, longing, grief, revenge"
+    },
+    {
+        "song_name": "All Too Well",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: All Too Well\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/1q3RiD1tIWUpGsNFADMlvl?utm_source=oembed\"></iframe>",
+        "emotions": "nostalgia, love, longing, sadness, happiness, reminiscence, warmth, yearning"
+    },
+    {
+        "song_name": "Cornelia Street",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Cornelia Street\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/12M5uqx0ZuwkpLp5rJim1a?utm_source=oembed\"></iframe>",
+        "emotions": "love, longing, heartbreak, nostalgia, fear, excitement, vulnerability, uncertainty"
+    },
+    {
+        "song_name": "invisible string",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: invisible string\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/6VsvKPJ4xjVNKpI8VVZ3SV?utm_source=oembed\"></iframe>",
+        "emotions": "happy, sad, nostalgic, hopeful, romantic, melancholy, peaceful, excited"
+    },
+    {
+        "song_name": "betty",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: betty\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/5kI4eCXXzyuIUXjQra0Cxi?utm_source=oembed\"></iframe>",
+        "emotions": "love, longing, regret, confusion, remorse, hope, nostalgia, heartbreak"
+    },
+    {
+        "song_name": "Better Man (Taylor's Version) (From The Vault)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Better Man (Taylor&apos;s Version) (From The Vault)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/1gWRnZ52AK1ZUvpjjTteKf?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, regret, loneliness, anger, longing, resilience, betrayal, disappointment"
+    },
+    {
+        "song_name": "\u2018tis the damn season",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: \u2018tis the damn season\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/7dW84mWkdWE5a6lFWxJCBG?utm_source=oembed\"></iframe>",
+        "emotions": "longing, nostalgia, regret, acceptance, yearning, contentment, melancholy, hope"
+    },
+    {
+        "song_name": "Afterglow",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Afterglow\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/1SymEzIT3H8UZfibCs3TYi?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, regret, guilt, apology, love, fear, hope, determination"
+    },
+    {
+        "song_name": "I Did Something Bad",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: I Did Something Bad\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/4svZDCRz4cJoneBpjpx8DJ?utm_source=oembed\"></iframe>",
+        "emotions": "love, trust, easy, anger, regret, fun, guilt, satisfaction"
+    },
+    {
+        "song_name": "I Forgot That You Existed",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: I Forgot That You Existed\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/43rA71bccXFGD4C8GOpIlN?utm_source=oembed\"></iframe>",
+        "emotions": "happy, sad, angry, nostalgic, peaceful, frustrated, indifferent, hopeful"
+    },
+    {
+        "song_name": "Call It What You Want",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Call It What You Want\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/1GwMQaZz6Au3QLDbjbMdme?utm_source=oembed\"></iframe>",
+        "emotions": "happy, sad, angry, excited, calm, nostalgic, confident, hopeful"
+    },
+    {
+        "song_name": "London Boy",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: London Boy\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/1LLXZFeAHK9R4xUramtUKw?utm_source=oembed\"></iframe>",
+        "emotions": "happy, nostalgic, longing, infatuated, content, excited, sentimental, playful"
+    },
+    {
+        "song_name": "The Very First Night (Taylor's Version) (From The Vault)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: The Very First Night (Taylor&apos;s Version) (From The Vault)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/6pYNq0ZwpPVazKzsqpf0G8?utm_source=oembed\"></iframe>",
+        "emotions": "love, longing, nostalgia, happiness, sadness, yearning, contentment, melancholy"
+    },
+    {
+        "song_name": "Daylight",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Daylight\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/1fzAuUVbzlhZ1lJAx9PtY6?utm_source=oembed\"></iframe>",
+        "emotions": "love, cruelty, regret, longing, darkness, luck, trust, morning"
+    },
+    {
+        "song_name": "Begin Again",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Begin Again\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/0L4YCNRfXAoTvdpWeH2RGj?utm_source=oembed\"></iframe>",
+        "emotions": "happy, sad, nostalgic, hopeful, amused, shy, surprised, content"
+    },
+    {
+        "song_name": "Fearless",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Fearless\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/6Eu31gddWw0gOGO506pJYA?utm_source=oembed\"></iframe>",
+        "emotions": "happy, nostalgic, romantic, excited, confident, content, hopeful, inspired"
+    },
+    {
+        "song_name": "the last great american dynasty",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: the last great american dynasty\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/2Eeur20xVqfUoM3Q7EFPFt?utm_source=oembed\"></iframe>",
+        "emotions": "excitement, melancholy, nostalgia, envy, rebellion, regret, extravagance, defiance"
+    },
+    {
+        "song_name": "The Archer",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: The Archer\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/3pHkh7d0lzM2AldUtz2x37?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, anger, loneliness, confusion, longing, frustration, fear, hopelessness"
+    },
+    {
+        "song_name": "Picture To Burn",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Picture To Burn\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/32mVHdy0bi1XKgr0ajsBlG?utm_source=oembed\"></iframe>",
+        "emotions": "anger, frustration, revenge, sadness, resentment, determination, empowerment, defiance"
+    },
+    {
+        "song_name": "I Think He Knows",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: I Think He Knows\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/2YWtcWi3a83pdEg3Gif4Pd?utm_source=oembed\"></iframe>",
+        "emotions": "excitement, desire, longing, attraction, confidence, anticipation, empowerment, uncertainty"
+    },
+    {
+        "song_name": "All You Had To Do Was Stay",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: All You Had To Do Was Stay\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/0dAb8TY433dl3ZfXYCLE19?utm_source=oembed\"></iframe>",
+        "emotions": "love, regret, longing, betrayal, frustration, hope, disappointment, forgiveness"
+    },
+    {
+        "song_name": "Babe (Taylor's Version) (From The Vault)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Babe (Taylor&apos;s Version) (From The Vault)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/0v4z1tuZvn6LGknom9Qx7d?utm_source=oembed\"></iframe>",
+        "emotions": "regret, anger, betrayal, sadness, disappointment, resentment, frustration, heartbreak"
+    },
+    {
+        "song_name": "this is me trying",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: this is me trying\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/7kt9e9LFSpN1zQtYEl19o1?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, regret, loneliness, determination, resilience, frustration, hope, vulnerability"
+    },
+    {
+        "song_name": "gold rush",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: gold rush\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/5BK0uqwY9DNfZ630STAEaq?utm_source=oembed\"></iframe>",
+        "emotions": "excitement, longing, disappointment, desire, admiration, confusion, nostalgia, doubt"
+    },
+    {
+        "song_name": "long story short",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: long story short\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/2o2sgVJIgFXk8GQjWTgI6U?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, anger, confusion, regret, love, longing, determination, peace"
+    },
+    {
+        "song_name": "Forever Winter (Taylor's Version) (From The Vault)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Forever Winter (Taylor&apos;s Version) (From The Vault)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/0EepXu0NfnnUX8efEZR167?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, longing, nostalgia, worry, love, hope, fear, uncertainty"
+    },
+    {
+        "song_name": "ivy",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: ivy\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/19CSr8rwW05VJL2F91KFNK?utm_source=oembed\"></iframe>",
+        "emotions": "love, longing, grief, pain, longing, hope, desire, obsession"
+    },
+    {
+        "song_name": "marjorie",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: marjorie\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/12ntTeqEeTg7GAVpe8Mhpl?utm_source=oembed\"></iframe>",
+        "emotions": "happiness, sadness, anger, love, fear, excitement, nostalgia, calmness"
+    },
+    {
+        "song_name": "mirrorball",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: mirrorball\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/0ZNU020wNYvgW84iljPkPP?utm_source=oembed\"></iframe>",
+        "emotions": "joy, love, excitement, confidence, vulnerability, sadness, reflection, self-acceptance"
+    },
+    {
+        "song_name": "illicit affairs",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: illicit affairs\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/2NmsngXHeC1GQ9wWrzhOMf?utm_source=oembed\"></iframe>",
+        "emotions": "longing, secrecy, illicitness, sadness, desire, longing, hidden, clandestine"
+    },
+    {
+        "song_name": "tolerate it",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: tolerate it\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/0PurA4JVJ8YQgSVopY8fn6?utm_source=oembed\"></iframe>",
+        "emotions": "love, sadness, longing, frustration, resignation, adoration, disappointment, acceptance"
+    },
+    {
+        "song_name": "happiness",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: happiness\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/73YUReisjb3A9ActdLLjJQ?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, happiness, anger, disbelief, fear, love, hurt, hope"
+    },
+    {
+        "song_name": "We Were Happy (Taylor\u2019s Version) (From The Vault)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: We Were Happy (Taylor\u2019s Version) (From The Vault)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/34V9RiEPe8MNdU32qJsJa1?utm_source=oembed\"></iframe>",
+        "emotions": "happy, nostalgic, content, joyful, sentimental, bittersweet, longing, fulfilled"
+    },
+    {
+        "song_name": "Don\u2019t You (Taylor\u2019s Version) (From The Vault)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Don\u2019t You (Taylor\u2019s Version) (From The Vault)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/4uuEGH5SVuzkkSFjo2DEiY?utm_source=oembed\"></iframe>",
+        "emotions": "longing, sadness, resentment, nostalgia, love, heartbreak, frustration, hope"
+    },
+    {
+        "song_name": "dorothea",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: dorothea\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/670fUmXf4KQekzbEgaXyPA?utm_source=oembed\"></iframe>",
+        "emotions": "love, longing, nostalgia, loneliness, admiration, regret, hope, desire"
+    },
+    {
+        "song_name": "cowboy like me",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: cowboy like me\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/1XjHRolIXL2M1EEOUsGGR4?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, regret, caution, anticipation, longing, frustration, reflection, determination"
+    },
+    {
+        "song_name": "Bye Bye Baby (Taylor\u2019s Version) (From The Vault)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Bye Bye Baby (Taylor\u2019s Version) (From The Vault)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/4qUijfYU8EoIWiY6oSyrgT?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, longing, regret, love, loss, nostalgia, disappointment, hope"
+    },
+    {
+        "song_name": "mad woman",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: mad woman\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/2QDyYdZyhlP2fp79KZX8Bi?utm_source=oembed\"></iframe>",
+        "emotions": "anger, sadness, revenge, madness, frustration, determination, defiance, betrayal"
+    },
+    {
+        "song_name": "Our Song",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Our Song\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/15DeqWWQB4dcEWzJg15VrN?utm_source=oembed\"></iframe>",
+        "emotions": "happy, nostalgic, romantic, playful, longing, content, reflective, excited"
+    },
+    {
+        "song_name": "seven",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: seven\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/6KJqZcs9XDgVck7Lg9QOTC?utm_source=oembed\"></iframe>",
+        "emotions": "joy, fear, sadness, anger, surprise, disgust, trust, anticipation"
+    },
+    {
+        "song_name": "Dancing With Our Hands Tied",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Dancing With Our Hands Tied\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/7I7JbDv63ZJJsSi24DyJrz?utm_source=oembed\"></iframe>",
+        "emotions": "love, secret, without reason, frozen, golden, close, bad feeling, sacred"
+    },
+    {
+        "song_name": "Death By A Thousand Cuts",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Death By A Thousand Cuts\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/2dgFqt3w9xIQRjhPtwNk3D?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, longing, heartbreak, regret, loneliness, confusion, nostalgia, resilience"
+    },
+    {
+        "song_name": "Fifteen",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Fifteen\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/4t0OI7XrODjSkAu3bTPmWj?utm_source=oembed\"></iframe>",
+        "emotions": "excitement, nostalgia, anticipation, friendship, love, happiness, adolescence, freedom"
+    },
+    {
+        "song_name": "Tim McGraw",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Tim McGraw\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/0Om9WAB5RS09L80DyOfTNa?utm_source=oembed\"></iframe>",
+        "emotions": "happiness, sadness, love, nostalgia, longing, regret, joy, yearning"
+    },
+    {
+        "song_name": "False God",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: False God\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/5hQSXkFgbxjZo9uCwd11so?utm_source=oembed\"></iframe>",
+        "emotions": "love, longing, sadness, regret, defiance, hope, devotion, vulnerability"
+    },
+    {
+        "song_name": "peace",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: peace\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/7MbT4I8qGntX4fMdqMQgke?utm_source=oembed\"></iframe>",
+        "emotions": "joy, sadness, fear, anger, love, surprise, disgust, anticipation"
+    },
+    {
+        "song_name": "White Horse (Taylor\u2019s Version)",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: White Horse (Taylor\u2019s Version)\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/5YL553x8sHderRBDlm3NM3?utm_source=oembed\"></iframe>",
+        "emotions": "love, sadness, anger, betrayal, disappointment, naivety, hope, regret"
+    },
+    {
+        "song_name": "epiphany",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: epiphany\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/08fa9LFcFBTcilB3iq2e2A?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, fear, bravery, love, empathy, exhaustion, confusion, despair"
+    },
+    {
+        "song_name": "It\u2019s Nice To Have A Friend",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: It\u2019s Nice To Have A Friend\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/1SmiQ65iSAbPto6gPFlBYm?utm_source=oembed\"></iframe>",
+        "emotions": "joy, nostalgia, friendship, comfort, relaxation, happiness, contentment, affection"
+    },
+    {
+        "song_name": "hoax",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: hoax\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/6MWoRt97mnSTXZhu3ggi9C?utm_source=oembed\"></iframe>",
+        "emotions": "sadness, heartbreak, despair, longing, vulnerability, anger, frustration, betrayal"
+    },
+    {
+        "song_name": "closure",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: closure\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/35rdVq36LMHQX0Suw9a6tK?utm_source=oembed\"></iframe>",
+        "emotions": "pain, sadness, anger, bitterness, resentment, acceptance, healing, closure"
+    },
+    {
+        "song_name": "Christmas Tree Farm",
+        "iframe": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"Spotify Embed: Christmas Tree Farm\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://open.spotify.com/embed/track/2mvabkN1i2gLnGAPUVdwek?utm_source=oembed\"></iframe>",
+        "emotions": "joy, nostalgia, longing, warmth, love, excitement, peace, contentment"
+    }
+]
