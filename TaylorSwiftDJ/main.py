@@ -52,7 +52,11 @@ def init():
 if "sidebar_state" not in st.session_state:
     st.session_state.sidebar_state = "collapsed"
 
-st.set_page_config(initial_sidebar_state=st.session_state.sidebar_state)
+st.set_page_config(
+    page_title="TaylorSwiftDJ",
+    page_icon="🎶",
+    initial_sidebar_state=st.session_state.sidebar_state
+)
 
 # Get Vector store, LLM Chain Redis storage info. This is done once and cached.
 db, chain, storage = init()
