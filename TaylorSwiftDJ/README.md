@@ -17,3 +17,5 @@ The application follows a sequence of steps to deliver Taylor Swift songs matchi
 
 ## Setup instructions
 --TODO--
+
+<small>_NOTE_: This project is largely inspired by [FairyTaleDJ](https://github.com/FrancescoSaverioZuppichini/FairytaleDJ)</small>
